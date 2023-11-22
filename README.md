@@ -14,4 +14,4 @@ This api is a set of APIs from TrendyApp and Trendy Pro. The original project is
 
 Fell free to explore the api in https://trendy-app-api.onrender.com/
 
-You can check the wiki for the documentation!
+You can check the wiki for the [documentation](https://github.com/nailtonvital/trendy-pro/wiki/API)!
